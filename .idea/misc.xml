@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/horizontalRc/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/horizontalRc/app/src/main/res/drawable/ic_airplane.xml" value="0.2203125" />
+        <entry key="..\:/horizontalRc/app/src/main/res/drawable/ic_revolution.xml" value="0.2203125" />
         <entry key="..\:/horizontalRc/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/horizontalRc/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
         <entry key="..\:/horizontalRc/app/src/main/res/layout/memory_card.xml" value="0.22" />
